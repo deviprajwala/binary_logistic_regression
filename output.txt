@@ -1,0 +1,2 @@
+Enter 1 to check probability of female securing honours or 0 to check probability male securing honours
+The probability is 29.3578%
